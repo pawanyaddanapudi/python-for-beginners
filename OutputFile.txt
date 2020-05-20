@@ -1,0 +1,6 @@
+student_id+name+location+course
+1001+Student 1 +INDIA+PFB
+1002+Student 2+USA+
+1003+Student 3+UAE+
+1004+Student 4+UK+DSS
+1005+Student 5+JAPAN+
